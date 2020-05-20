@@ -10,7 +10,7 @@ Com canecas estampadas, o detector não funciona tão bem.
 
 ![alt text](https://github.com/LissandraRodrigues/deteccao_canecas_opencv/blob/master/Exemplo_3.png?raw=true)
 
-Mas, dependendo ângulo e da iluminação, é possível fazer a detecção normalmente.
+Mas, dependendo do ângulo e da iluminação, é possível fazer a detecção normalmente.
 
 ![alt text](https://github.com/LissandraRodrigues/deteccao_canecas_opencv/blob/master/Exemplo_4.png?raw=true)
 
